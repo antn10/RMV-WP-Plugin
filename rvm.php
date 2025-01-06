@@ -1,13 +1,13 @@
 <?php
 /**
  * Plugin Name:       rvmwpplugin
- * Plugin URI:        https://lav.uy/rvmwpplugin
+ * Plugin URI:        https://informaticaclasica.uy/rvm-wp-plugin
  * Description:       Reproduce juegos de computadoras clásicas como Spectrum o Amstrad directamente en tu sitio WordPress.
  * Version:           1.0.0
  * Requires at least: 5.5
  * Requires PHP:      7.0
  * Author:            lav
- * Author URI:        https://lav.uy
+ * Author URI:        https://informaticaclasica.uy/rvm-wp-plugin
  * Text Domain:       rvmwpplugin
  * Domain Path:       /assets/languages
  * License:           GPL v2 or later
